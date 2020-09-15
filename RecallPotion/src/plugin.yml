@@ -1,0 +1,13 @@
+name: RecallPotion
+author: Stellrow
+version: 1.0
+api-version: 1.13
+main: ro.Stellrow.RecallPotion.RecallPotion
+
+commands:
+  recallpotion:
+    usage: /recallpotion give player amount
+    description: Main command to give a potion to a player
+    aliases:
+      - rp
+      - recall

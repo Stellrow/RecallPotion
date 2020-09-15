@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RecallPotion:jar">
+    <output-path>$PROJECT_DIR$/../../../D/Default/pubserver/privateserver1.16.2/plugins</output-path>
+    <root id="archive" name="RecallPotion.jar">
+      <element id="module-output" name="RecallPotion" />
+    </root>
+  </artifact>
+</component>
